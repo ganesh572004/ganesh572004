@@ -29,9 +29,9 @@ I am focused on building scalable applications, debugging systems, and applying 
 
 ### 🏅 Badges
 <p align="left">
-  <img src="YOUR_AWS_PRACTITIONER_BADGE_URL" alt="AWS Certified Cloud Practitioner" width="120" style="margin-right: 20px;" />
-  <img src="YOUR_AWS_ACADEMY_BADGE_URL" alt="AWS Academy Cloud Foundations" width="120" style="margin-right: 20px;" />
-  <img src="YOUR_ACHIEVEMENT_BADGE_URL" alt="Achievement Badge" width="120" />
+  <img src="cert_badge_1.png" alt="AWS Certified Cloud Practitioner" width="120" style="margin-right: 20px;" />
+  <img src="cert_badge_2.png" alt="AWS Academy Cloud Foundations" width="120" style="margin-right: 20px;" />
+  <img src="cert_badge_3.png" alt="Achievement Badge" width="120" />
 </p>
 
 ---
