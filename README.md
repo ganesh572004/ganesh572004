@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_HEADER_IMAGE_URL" alt="Ganesh Korada Header" width="100%" />
+  <img src="Gemini_Generated_Image_c84fkec84fkec84f.png" alt="Ganesh Korada Header" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Ganesh Korada</h1>
