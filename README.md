@@ -36,18 +36,3 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ganesh572004&show_icons=true&theme=radical" alt="Ganesh's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganesh572004&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ganesh572004&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Ganesh's GitHub Trophies" />
-  </a>
-</p>
