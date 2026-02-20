@@ -21,7 +21,11 @@ I am focused on building scalable applications, debugging systems, and applying 
 ---
 
 ### 📜 Certifications
-- **[AWS Certified Cloud Practitioner](https://www.credly.com/badges/b61b78ce-f251-4d33-b371-6e129ee1dd3d/public_url)** - **AWS Cloud Technical Essentials** - **Improving Deep Neural Networks** ---
+- **[AWS Certified Cloud Practitioner](https://www.credly.com/badges/b61b78ce-f251-4d33-b371-6e129ee1dd3d/public_url)**
+- **[AWS Cloud Technical Essentials](https://www.credly.com/badges/d8dbbd93-85a9-4401-ad21-516942145633/public_url)**
+- **[Improving Deep Neural Networks](https://www.coursera.org/account/accomplishments/verify/DPYZZIWPAL1M)**
+  
+---
 
 ### 🏅 Badges
 <p align="left">
